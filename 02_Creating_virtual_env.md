@@ -1,1 +1,1 @@
-conda create -n (env. name)
+$ conda create -n (env. name)
